@@ -21,7 +21,7 @@ cnoreabbrev blame Gblame
 cnoreabbrev find NERDTreeFind
 cnoreabbrev diff Gdiff
 
-" plugs
+" /usr/bin/jav.vim/maps.vimaplugs
 map <Leader>nt :NERDTreeFind<CR>
 map <Leader>p :Files<CR>
 map <Leader>ag :Ag<CR>
